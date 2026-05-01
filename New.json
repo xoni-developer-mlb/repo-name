@@ -3,18 +3,21 @@
     "hero_name": "Chou",
     "skin_name": "Thunderfist",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Chou_%28Thunderfist%29.jpg/revision/latest?cb=20230819020046",
+    "hero_img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "link": "https://test/zip"
   },
   {
     "hero_name": "Fanny",
     "skin_name": "Skylark",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Fanny_%28Skylark%29.jpg/revision/latest?cb=20211010124153",
+    "hero_img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654",
     "link": "https://test/zip2"
   },
   {
     "hero_name": "Gusion",
     "skin_name": "Cosmic Gleam",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Gusion_%28Cosmic_Gleam%29.jpg/revision/latest?cb=20211011033726",
+    "hero_img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407",
     "link": "https://test/zip3"
   }
 ]
